@@ -1,6 +1,5 @@
 ## Hello World! 👋
 
-- 🔭 I’m currently working with ARM as a Cloud Engineer
 - 🌱 I’m enrolled in a graduate degree program in Information Systems at Carnegie Mellon Univeristy
 - 💬 Ask me about: Cloud, Distributed Systems, Pervasive Computing, Containerization, Virtualization
 - 📫 How to reach me: abhineetchaudhary@cmu.edu
